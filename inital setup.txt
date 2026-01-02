@@ -1,0 +1,10 @@
+--Git Intial SetUp
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dhananjay-Surkutlawar/Learn_React.git
+git push -u origin main
+
+-- set up react with a vite 
+npm create vite
