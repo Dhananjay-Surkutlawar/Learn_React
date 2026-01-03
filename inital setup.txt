@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=3LRZRSIh_KE
+
 --Git Intial SetUp
 git init
 git add .
@@ -8,3 +10,17 @@ git push -u origin main
 
 -- set up react with a vite 
 npm create vite
+
+--day-1
+--react intial knowledge 
+React app runs under one root
+A component must return one parent
+<> </> = Fragment (no extra DOM element)
+
+
+--day-2
+--react component
+A React component is a reusable piece of UI.
+Each component is written as a JavaScript function and returns JSX.
+rafce is a shortcut (snippet) used in VS Code to quickly create a functional component.
+
