@@ -11,16 +11,26 @@ git push -u origin main
 -- set up react with a vite 
 npm create vite
 
---day-1
+--folder-1
 --react intial knowledge 
 React app runs under one root
 A component must return one parent
 <> </> = Fragment (no extra DOM element)
 
 
---day-2
+--folder-2
 --react component
 A React component is a reusable piece of UI.
 Each component is written as a JavaScript function and returns JSX.
 rafce is a shortcut (snippet) used in VS Code to quickly create a functional component.
 
+--folder-3
+--props drilling 
+Data flows one-way (parent ➝ child)
+{} is used to pass variables, numbers, objects, arrays
+Props are read-only (child cannot change them)
+Props drilling means passing data through multiple components
+
+--Extra to Know
+If props go too deep → use Context API
+You can pass functions as props
