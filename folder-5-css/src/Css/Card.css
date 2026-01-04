@@ -1,0 +1,66 @@
+.job-card {
+  width: 320px;
+  padding: 20px;
+  border-radius: 20px;
+  background: white;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.company-logo {
+  width: 40px;
+  height: 40px;
+  background: black;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.save-btn {
+  background: #f2f2f2;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.company-name {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #555;
+}
+
+.job-role {
+  margin: 8px 0 15px;
+}
+
+.tags span {
+  background: #f2f2f2;
+  padding: 5px 10px;
+  border-radius: 10px;
+  margin-right: 8px;
+  font-size: 12px;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.apply-btn {
+  background: black;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}

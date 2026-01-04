@@ -34,3 +34,13 @@ Props drilling means passing data through multiple components
 --Extra to Know
 If props go too deep → use Context API
 You can pass functions as props
+
+--folder-4
+created a static card project 
+learned how to show cards and how to bind the data in html
+learned how to pass the props
+
+--folder-5
+learining css
+seprte file
+same file css
